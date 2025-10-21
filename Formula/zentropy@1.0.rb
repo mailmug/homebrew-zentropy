@@ -1,4 +1,4 @@
-class Zentropy < Formula
+class ZentropyAT10 < Formula
   desc "High-performance, lightweight key-value store server (Redis alternative)"
   homepage "https://github.com/mailmug/zentropy"
   url "https://github.com/mailmug/zentropy/releases/download/v1.0.0/zentropy.zip"
